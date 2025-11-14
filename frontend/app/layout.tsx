@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Vivek's Digital Twin",
-  description: "Let's talk with Vivek Garg",
+  description: "An AI Twin representing Vivek Garg",
 };
 
 export default function RootLayout({
