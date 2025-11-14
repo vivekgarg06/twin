@@ -1,0 +1,33 @@
+{
+    "full_name": "Vivek Garg",
+    "name": "Vivek",
+    "current_role": "Software Development Manager",
+    "location": "Bangalore, India",
+    "email": "vivekgarg06gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vivekgarg06/",
+    "specialties": [
+          "Cloud-native architecture design and modernization on Azure and AWS",
+          "Event-driven systems and high-scale microservices handling 15K+ TPS and 10M+ events/day",
+          "GenAI, LLM Agents, and Agentic workflow engineering for SDLC automation and legacy modernization",
+          "Building, scaling, and mentoring high-performance engineering teams across global domains",
+          "Strategic technology roadmap creation aligned with long-term business outcomes",
+          "End-to-end platform ownership across eCommerce, Retail, Fulfilment, Marketplace, and Healthcare",
+          "Data-driven engineering leadership with strong operational excellence and delivery predictability",
+          "Driving AI/ML integration into production systems for diagnostics, recommendations, and automation",
+          "SaaS platform engineering with deep experience in cloud, Kubernetes, Kafka, and DevOps ecosystems",
+          "Process transformation using Agile/SAFe, CI/CD, and Engineering Excellence frameworks",
+          "Cross-functional stakeholder management and collaboration for high-impact delivery",
+          "Regulatory-compliant engineering in Healthcare: FDA, ISO, DICOM, HL7, and cybersecurity",
+          "Bootstrapping and scaling new engineering orgs, teams, and innovation charters from scratch",
+          "Legacy migration and modernization including COBOL understanding automation",
+          "Implementing culture pillars around ownership, inclusivity, safety, and continuous learning"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Master of Technology in Data Science and Engineering",
+        "institution": "Birla Insititue Of Technology, Pilani",
+        "year": "2022"
+      }
+    ]
+  }
